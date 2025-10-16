@@ -109,7 +109,7 @@
       </p>
 
       <div class="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Mukagali_memorial_in_Karasaz.jpg" alt="Мұқағали ескерткіші" width="320">
+        <img src="https://img.inform.kz/kazinform-photobank/media/2023-09-28/fe8194b3-3e7f-4413-b6f6-41af6c3b1d38.webp" alt="Мұқағали ескерткіші" width="320">
       </div>
     </section>
 
@@ -122,7 +122,7 @@
       </p>
 
       <div class="center">
-        <img src="https://upload.wikimedia.org/wikipedia/kk/3/3a/Mukagali_Family.jpg" alt="Мұқағалидың отбасы" width="320">
+        <img src="https://juldyz.kz/wp-content/uploads/2017/01/16d2ca9e3e7ef5800ba8c8ba957074f7.jpg" alt="Мұқағалидың отбасы" width="320">
       </div>
     </section>
 
