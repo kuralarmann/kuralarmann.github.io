@@ -180,7 +180,7 @@
 
       <div class="center">
         <iframe width="560" height="315" 
-          src="https://youtu.be/gqMqkesbMwc?si=bH6JG31WSPYHw-K2" 
+          src="https://youtu.be/IAUBqHyvz7o?si=BFzqwUCF4UtkFvXa" 
           title="Пай пай өмір - Мұқағали Мақатаев өлеңі" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
