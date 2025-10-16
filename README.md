@@ -91,7 +91,7 @@
     <h1>Мұқағали Мақатаев</h1>
     
     <div class="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Mukagali_Makataev.jpg" alt="Мұқағали Мақатаев" width="260">
+      <img src="https://www.caravan.kz/wp-content/uploads/images/592324.jpg" alt="Мұқағали Мақатаев" width="260">
     </div>
 
     <section id="bio">
