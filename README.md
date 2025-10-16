@@ -175,13 +175,13 @@
       <h2>Бейне және әндері</h2>
       <p>
         Мұқағалидың өлеңдеріне жазылған көптеген әуендер қазақ эстрадасының інжу-маржанына айналды. 
-        Солардың бірі – «Сағындым сені» әні. Төмендегі бейнеде осы тамаша әнді тыңдай аласыз:
+        Солардың бірі – «Пай пай өмір» әні. Төмендегі бейнеде осы тамаша әнді тыңдай аласыз:
       </p>
 
       <div class="center">
         <iframe width="560" height="315" 
-          src="https://www.youtube.com/embed/f7F_2w6bt0o" 
-          title="Сағындым сені - Мұқағали Мақатаев өлеңі" 
+          src="https://youtu.be/gqMqkesbMwc?si=bH6JG31WSPYHw-K2" 
+          title="Пай пай өмір - Мұқағали Мақатаев өлеңі" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
