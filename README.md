@@ -109,7 +109,7 @@
       </p>
 
       <div class="center">
-        <img src="https://img.inform.kz/kazinform-photobank/media/2023-09-28/fe8194b3-3e7f-4413-b6f6-41af6c3b1d38.webp" alt="Мұқағали ескерткіші" width="320">
+        <img src="https://el.kz/upload/medialibrary/177/177b0e00659e9c43435721dfabd5ebc2.jpg" alt="Мұқағали ескерткіші" width="320">
       </div>
     </section>
 
